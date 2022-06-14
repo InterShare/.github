@@ -17,7 +17,7 @@ While it works, currently it may not be well-designed to be used by anyone other
 - 🗓 Publish linux package (AppImage, rpm and deb)
 - 🗓 Bluetooth discovery and transfer
 
-✅ = Done <br />
+✅ = Done and published <br />
 ⏳ = Working on it  <br />
 🗓 = Planned <br />
 
