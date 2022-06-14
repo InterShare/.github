@@ -4,7 +4,20 @@ InterShare aims to be a cross platform open source AirDrop alternative, enabling
 
 ## Status 
 
-While it works, currently it may not be designed to be used by anyone other than my colleges. 
+While it works, currently it may not be well-designed to be used by anyone other than my colleges. 
+
+<b>Feature list</b>
+- ✅ Transfer (TCP)
+- ✅ Discovery (UDP + MDNS)
+- ✅ App for Linux, macOS, Windows, iOS and Android
+- ✅ Encryption
+- ⏳ Native apps per platform
+- 🗓 Authentication (via ECDSA probably)
+- 🗓 Publish linux package (AppImage, rpm and deb)
+
+✅ = Done <br />
+⏳ = Working on it  <br />
+🗓 = Planned <br />
 
 ## How it currently works
 
