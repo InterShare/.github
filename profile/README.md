@@ -11,6 +11,7 @@ While it works, currently it may not be well-designed to be used by anyone other
 - ✅ Discovery (UDP + MDNS)
 - ✅ App for Linux, macOS, Windows, iOS and Android
 - ✅ Encryption
+- ⏳ Rewrite in Rust
 - ⏳ Native apps per platform
 - 🗓 Authentication (via ECDSA probably)
 - 🗓 Publish linux package (AppImage, rpm and deb)
