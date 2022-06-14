@@ -34,7 +34,7 @@ I am a big fan of a native GUI experience per platform. Eto is cross-platform an
 
 ## How it will work in the future
 
-While InterShare currently works as C# .NET Application. It is only temporary. The plan is to rewrite the SMTS-Protocol in Rust and use FFI wrapper, to write native apps per platform.
+While InterShare currently works as C# .NET Application. It is only temporary. The plan is to rewrite the SMTS-Protocol in Rust and use the FFI to write native apps per platform.
 
 - Swift for macOS, iOS
 - Rust as GTK App for Linux
